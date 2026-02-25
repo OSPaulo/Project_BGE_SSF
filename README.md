@@ -1,4 +1,4 @@
-Local adaptation to small-scale farming landscapes in wild bees populations.
+#Local adaptation to small-scale farming landscapes in wild bees populations.#
 
 This repository includes all the scripts used to amnalyze the sequencing data to identify genetic markers of adaptation, 
 assess patterns of genetic differentiation in two species of wild bees: Lasioglossum malachurum and Bombus terrestris
